@@ -1,0 +1,1059 @@
+.main2
+{
+	position: relative;
+	left: 50px;
+}
+
+.noice
+{
+	position: relative;
+	top: 50px;
+}
+
+.old
+{
+	background-color: rgb(221, 172, 124);
+	font-weight: bold;
+}
+
+#chars
+{
+		font-size: 80%;	
+		position: relative;
+		bottom: -30px;
+		left: 135px;
+		color: green;
+}
+
+.dont
+{
+	display: none;
+}
+
+#rez
+{
+	position: relative;
+	left: 65px;
+}
+
+.submit
+{
+	position: relative;
+	top: 0px;
+	right: 70px;
+	background-color: cyan;
+	color: blue;
+	font-weight: bold;
+}
+
+input
+{
+	position: relative;
+	bottom: 20px;	
+}
+
+label
+{
+	color: blue;
+	position: relative;
+	right: 100px;
+	bottom: 20px;
+}
+
+textarea
+{
+	position: relative;
+	top: 0px;
+}
+
+fieldset 
+{
+  background-color: #f1f1f1;
+  border: 2px solid blue;
+  border-radius: 2px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  padding: 1em 6em;
+}
+
+fieldset ul 
+{
+  list-style: none;
+  display: table;
+}
+
+fieldset li 
+{
+  display: table-row;
+}
+
+body
+	{
+		background-color: #00BFFF;
+		color: #221811;
+		font-family: Verdana, Arial, sans-serif;
+		background-image: url("../Images/ocean.jpg");
+		background-repeat: repeat-x;
+	}
+
+h1
+	{
+		color: #FFE4C4;
+		line-height: 200%;
+	}
+
+h3
+	{
+		color: #FFE4C4;
+		font-size: 125%;
+	}
+
+dt	
+	{
+		color: #FFE4C4;	
+	}
+
+dd
+	{
+		color: #221811;
+	}
+
+footer	
+	{
+		background-color: #191970;	
+		color: blue;
+		font-size: small;
+		font-style: italic;
+		text-align: center;	
+	}
+
+#address
+	{
+		color: #191970;
+		font-size: 80%;
+		font-family: calibri;	
+		background-image: url("../Images/ocean.jpg");
+		box-sizing: border-box;
+		border: 2px solid  #FFE4C4 ;
+		border-radius: 2px;
+	}
+	
+#address2
+	{
+		color: #191970;
+		font-size: 80%;
+		font-family: calibri;	
+		background-image: url("../Images/ocean.jpg");
+		box-sizing: border-box;
+		border: 2px solid  #FFE4C4 ;
+		border-radius: 2px;
+		
+		position: relative;
+		top: 100px;
+		left: 10px;
+		display: block;
+	}
+
+#white
+	{
+		color: white;
+	}
+
+header
+	{
+		text-align: center;
+	}
+
+li
+	{
+		color: #FFE4C4;
+	}
+
+p u strong
+	{	
+		color: #A52A2A;
+		font-family: Calibri;
+		font-size: 1.4em;
+	}
+p u
+	{
+		color: #A52A2A;
+	}
+
+nav
+	{
+		text-align: left;
+		font-weight: bold;
+		font-size: 1.2em;
+	}
+	
+#worddd
+{
+	padding-bottom: 425px;
+	padding-right: 50px;
+}
+
+#worddd2
+{
+	padding-bottom: 750px;
+	padding-right: 50px;
+}
+
+.table1
+{
+	border: 2px solid white;
+	border-collapse: collapse;
+}
+
+.table2
+{
+	border: 2px solid white;
+	border-collapse: collapse;
+	text-align: center;	
+}
+
+.table3
+{
+	border: 2px solid white;
+	border-collapse: collapse;
+	text-align: center;	
+	background-color: #000066;
+	color: #EAEAEA;
+}
+
+.odd
+{
+	background-color: #A9A9A9;
+	color: blue;
+}
+
+.cap
+{
+	text-align: left;	
+	font-size: 1.2em;
+}
+	
+header h1
+{
+	background-image: url("../Images/lighthouselogo.jpg");
+	background-position: left; 
+	background-repeat: no-repeat;
+	height: 110px;
+	padding-left: 130px;
+	padding-top: 15px;
+	border: 1px solid #FFE4C4;
+	border-radius: 15px;
+	color: #00008B;
+	font-size: 3em;
+}
+
+#wrapper
+{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 900px;
+	min-width: 750px;
+	width: 80%;
+}
+
+nav > a
+{
+	text-decoration: none;
+}
+
+ a
+{
+	text-decoration: none;
+}
+
+body footer
+{
+	background-image: url("../Images/lighthouselogo1.jpg");
+	background-repeat: repeat-x;
+	height: auto;
+	margin-top: -5em;
+	border: 1px solid #FFE4C4; 
+	border-radius: 6px;
+}
+
+img.dothis 
+{
+	float: right;
+	margin-left: 50px;
+}
+
+img.dothis2
+{
+	float: right;
+	margin-right: -300px;
+	margin-top: 10px;
+}
+
+.bigger
+{
+	font-size: 115%;
+}
+
+nav
+{
+	width: 200px;
+}
+
+ul.demo
+	  {
+		  list-style-type: none;
+	  }
+	  
+.hide
+	{
+		display: none;
+	}
+	
+.hide2
+	{
+		display: none;
+	}
+	
+.hide3
+	{
+		display: none;
+	}	
+
+.hide4
+	{
+		display: none;
+	}
+	
+.pushDown
+{
+	position: relative;
+	top: -50px;
+}
+
+	#myF
+	{
+		position: relative;
+		right: 100px;
+		top: -20px;
+	}
+		
+	#myL
+	{
+		position: relative;
+		right: 100px;
+		top: -10px;
+	}	
+	
+	#myE
+	{
+		position: relative;
+		right: 100px;
+		top: 0px;
+	}
+	
+	#myP
+	{
+		position: relative;
+		right: 100px;
+		top: 10px;
+	}
+	
+	#myD
+	{
+		position: relative;
+		right: 100px;	
+		top: 20px;
+	}
+	
+	#myT
+	{
+		position: relative;
+		right: 100px;	
+		top: 30px;		
+	}
+	
+	#myG
+	{
+		position: relative;
+		right: 100px;	
+		top: 40px;		
+	}
+	
+	#myC
+	{
+		position: relative;
+		right: 100px;
+		top: 30px;
+	}
+	
+	#myFName
+	{
+		position: relative;
+		top: -20px;
+		left: -70px;
+	}
+	
+	#myLName
+	{
+		position: relative;
+		top: -10px;
+		left: -63px;
+	}	
+	
+	#myEmail
+	{
+		position: relative;
+		top: 0px;
+		left: -63px;
+	}	
+	
+	#myPhone
+	{
+		position: relative;
+		top: 10px;
+		left: -63px;
+	}
+
+	#myDate
+	{
+		position: relative;
+		top: 20px;
+		left: -63px;
+	}
+
+	#myTime
+	{
+		position: relative;
+		top: 30px;
+		left: -63px;
+	}	
+	
+	#myGuests
+	{
+		position: relative;
+		top: 40px;
+		left: -63px;
+	}
+
+	#myComments
+	{
+		position: relative;
+		top: 50px;
+		left: -63px;
+	}	
+	
+	#ReservationFooter
+	{
+		position: relative;
+		top: 100px;
+	}
+	
+@media only screen and (max-width: 64em) 
+{	
+	#chars
+	{
+		font-size: 80%;	
+		position: relative;
+		bottom: 20px;
+		left: 50px;
+	}
+
+	#ReservationFooter
+	{
+		position: relative;
+		top: 525px;
+	}
+	
+	input
+	{
+		position: relative;
+		bottom: 20px;	
+		right: 150px;
+	}
+
+	label
+	{
+		color: blue;
+		position: relative;
+		right: 200px;
+		bottom: 20px; 
+	}
+
+	textarea
+	{
+		position: relative;
+		top: 0px;
+		right: 150px;
+	}
+
+	fieldset 
+	{
+		background-color: #f1f1f1;
+		border: 2px solid blue;
+		border-radius: 2px;
+		margin-bottom: 12px;
+		overflow: hidden;
+		padding: 1em 12em;
+}	
+	#rez
+	{
+		position: absolute;
+		top: 350px;
+		left: 50px;
+		display: block;
+	}
+
+	  body 
+	  {
+		  margin: 0;
+	  }
+	  
+	  #wrapper 
+	  {
+		  min-width: 0;
+		  width: auto;
+		  box-shadow: none;
+	  }
+	  
+	  .main
+	  {
+		position: absolute;
+		top: 350px;
+		left: 0px;
+		display: block;
+	  }
+	  
+	  nav 
+	  {
+		  display: block;
+		  width: auto;
+		  text-align: center;	
+		  padding: 0.5em;
+	  }
+	  
+	  nav li 
+	  {
+		display: inline;
+		padding: 0.25em 0.75em;
+	  }
+	  
+	  img.dothis 
+	  {
+		margin-bottom: 5px;
+	  }
+	  
+	#address
+	{
+		color: #191970;
+		font-size: 80%;
+		background-image: none;
+		border: 0px solid  #FFE4C4 ;
+		border-radius: 0px;
+		margin-top: 20px;
+	}
+	
+	nav ul br 
+	{
+		display: none;
+	}
+	
+	footer
+	{
+		position: relative;
+		top: 300px;
+		right: 0px;
+		
+		background-image: url("../Images/lighthouselogo1.jpg");
+		background-repeat: repeat-x;
+		
+	}
+	
+	#worddd
+	{
+		position: absolute;
+		top: 170px;
+		left: 150px;
+	}
+	
+	.noBr
+	{
+		display:none;
+	}
+	
+	.pushDown
+	{
+		position: absolute;
+		top: 350px;
+		left: 100px;
+		right: 100px;
+	}
+	
+	#address2
+	{
+		color: #191970;
+		font-size: 80%;
+		background-image: none;
+		border: 0px solid  #FFE4C4 ;
+		border-radius: 0px;
+		position: absolute;
+		top: 260px;
+		left: 400px;
+	}
+	
+	.dothis3
+	{
+		position: relative;
+		top: 1100px;
+		right: 0px;
+		
+		background-image: url("../Images/lighthouselogo1.jpg");
+		background-repeat: repeat-x;
+	}
+	
+	.dothis4
+	{
+		position: relative;
+		top: 350px;
+		right: 0px;
+		
+		background-image: url("../Images/lighthouselogo1.jpg");
+		background-repeat: repeat-x;
+	}
+    
+	#myF
+	{
+		position: relative;
+		right: 230px;
+		top: -30px;
+	}
+		
+	#myL
+	{
+		position: relative;
+		right: 225px;
+		top: -20px;
+	}	
+	
+	#myE
+	{
+		position: relative;
+		right: 227px;
+		top: -10px;
+	}
+	
+	#myP
+	{
+		position: relative;
+		right: 227px;
+		top: 0px;
+	}
+	
+	#myD
+	{
+		position: relative;
+		right: 227px;	
+		top: 10px;
+	}
+	
+	#myT
+	{
+		position: relative;
+		right: 227px;	
+		top: 20px;		
+	}
+	
+	#myG
+	{
+		position: relative;
+		right: 227px;	
+		top: 30px;		
+	}
+	
+	#myC
+	{
+		position: relative;
+		right: 227px;
+		top: 20px;
+	}
+	
+	#myFName
+	{
+		position: relative;
+		top: -28px;
+		left: -150px;
+	}
+	
+	#myLName
+	{
+		position: relative;
+		top: -18px;
+		left: -143px;
+	}	
+	
+	#myEmail
+	{
+		position: relative;
+		top: -8px;
+		left: -143px;
+	}	
+	
+	#myPhone
+	{
+		position: relative;
+		top: 2px;
+		left: -143px;
+	}
+
+	#myDate
+	{
+		position: relative;
+		top: 12px;
+		left: -143px;
+	}
+
+	#myTime
+	{
+		position: relative;
+		top: 22px;
+		left: -143px;
+	}	
+	
+	#myGuests
+	{
+		position: relative;
+		top: 32px;
+		left: -143px;
+	}
+
+	#myComments
+	{
+		position: relative;
+		top: 42px;
+		left: -143px;
+	}
+
+	#chars
+	{
+		font-size: 80%;	
+		position: relative;
+		top: 25px;
+		left: 55px;
+	}	
+	
+}
+
+@media only screen and (max-width: 37.5em) 
+{	
+	.dont
+	{
+		display: block;
+	}
+	
+	input
+	{
+		position: relative;
+		right: 305px;
+	}
+
+	label
+	{
+		color: blue;
+		position: relative;
+		right: 180px;
+		bottom: 10px; 
+	}
+	
+	textarea
+	{
+		position: relative;
+		top: 0px;
+		right: 305px;
+	}
+	
+	#rez
+	{
+		position: absolute;
+		top: 480px;
+		left: 10px;
+		font-size: 80%;
+	}
+	
+	header 
+	{
+		padding-top: 1em;
+	}
+
+	.main 
+	{
+		padding: 0.1em 1em;
+		font-size: 90%;
+		position: absolute; 
+		top: 500px;
+	}
+
+	header h1 
+	{
+		font-size: 1.5em;
+	}
+
+	nav 
+	{
+		position: absolute;
+		left: 100px;
+		right: 100px;
+	}
+
+	nav a 
+	{
+		display: block;
+	}
+
+  nav li 
+  {
+    display: block;
+    margin: 0;
+    border-bottom: 2px solid white;
+	width: 37.5em;
+	position: relative;
+	right: 250px;
+  }
+
+  footer 
+  {
+    margin-left: 0;
+  }
+  
+  .delta
+  {
+	  position: relative;
+	  top: 850px;
+  }
+  
+	.noBr
+	{
+		display:none;
+	}
+	
+	.hide
+	{
+		display: block;
+		position: absolute;
+		top: 475px;
+		color: black;
+	}
+	
+	.hide2
+	{
+		display: block;
+		position: absolute;
+		top: 475px;
+		color: black;
+	}
+	
+	.hide3
+	{
+		display: block;
+		position: absolute;
+		top: 600px;
+		color: black;
+	}
+	
+	.hide4
+	{
+		display: block;
+		position: absolute;
+		top: 750px;
+		color: black;
+	}	
+	
+	.table1
+	{
+		display: none;
+	}
+
+	.table2
+	{
+		display: none;
+	}
+
+	.table3
+	{
+		display: none;
+	}
+	
+	#white
+	{
+		text-decoration: underline;
+		cursor: pointer;
+		color: blue;
+	}
+
+	#address2
+	{
+		position: absolute;
+		top: 200px;
+		left: 75px;
+	}
+	
+	.dothis4
+	{
+		position: relative;
+		top: 850px;
+		right: 0px;
+		
+		background-image: url("../Images/lighthouselogo1.jpg");
+		background-repeat: repeat-x;
+	}
+	
+	.dothis
+	{
+		display: none;
+	}
+	
+	#myF
+	{
+		position: relative;
+		right: 230px;
+		top: -130px;
+	}
+		
+	#myL
+	{
+		position: relative;
+		right: 225px;
+		top: -100px;
+	}	
+	
+	#myE
+	{
+		position: relative;
+		right: 245px;
+		top: -70px;
+	}
+	
+	#myP
+	{
+		position: relative;
+		right: 255px;
+		top: -40px;
+	}
+	
+	#myD
+	{
+		position: relative;
+		right: 265px;	
+		top: -10px;
+	}
+	
+	#myT
+	{
+		position: relative;
+		right: 265px;	
+		top: 20px;		
+	}
+	
+	#myG
+	{
+		position: relative;
+		right: 180px;	
+		top: 50px;		
+	}
+	
+	#myC
+	{
+		position: relative;
+		right: 220px;
+		top: 55px;
+	}
+	
+	.submit
+	{
+		position: relative;
+		top: 110px;
+		right: 35px;
+	}
+	
+	fieldset
+	{
+		padding: 10em 4em;
+		position: relative;
+	}
+	
+	fieldset ul
+	{
+		position: relative;
+		left: 100px;
+	}
+	
+	#ReservationFooter
+	{
+		position: absolute;
+		top: 1250px;
+		left: 0px;
+	}
+	
+	#chars
+	{
+		font-size: 80%;	
+		position: relative;
+		top: 90px;
+		left: -35px;
+	}
+	
+	#myFName
+	{
+		position: relative;
+		top: -105px;
+		left: -305px;
+	}
+	
+	#myLName
+	{
+		position: relative;
+		top: -75px;
+		left: -300px;
+	}	
+	
+	#myEmail
+	{
+		position: relative;
+		top: -45px;
+		left: -300px;
+	}	
+	
+	#myPhone
+	{
+		position: relative;
+		top: -15px;
+		left: -300px;
+	}
+
+	#myDate
+	{
+		position: relative;
+		top: 15px;
+		left: -300px;
+	}
+
+	#myTime
+	{
+		position: relative;
+		top: 45px;
+		left: -300px;
+	}	
+	
+	#myGuests
+	{
+		position: relative;
+		top: 75px;
+		left: -300px;
+	}
+
+	#myComments
+	{
+		position: relative;
+		top: 100px;
+		left: -300px;
+	}	
+	
+}

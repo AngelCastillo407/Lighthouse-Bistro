@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title> The Lighthouse Bistro </title>
+	<link rel="stylesheet" type="text/css" href="../../CSS%20Folder/bistro.css">
+	<link rel="icon" href = "../../Images/favicon.ico">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js" ></script>
+    <script src="../../JavaScript/javascript.js"> </script>		
+</head>
+
+<body>
+<div id="wrapper">
+
+	<header>
+		<h1> The Lighthouse Bistro </h1>
+	</header>
+
+	<table>
+	<tr>
+	
+	<td>
+	<nav>
+	<ul class = "demo">
+		<li> </li>
+		<li> <a href = "../Index/Index.html"> Home</a> <br class = "noBr"> <br class = "noBr"> </li>
+		<li> <a href = "../Menu/Menu.html"> Our Menu</a> <br class = "noBr"> <br class = "noBr"> </li>
+		<li> <a href = "../Entertainment/Entertainment.html"> Entertainment Schedule</a> <br class = "noBr"> <br class = "noBr"> </li>
+		<li> <a href = "../Reservation/Reservations.html"> Make Reservations</a> <br class = "noBr"> <br class = "noBr"> <br class = "noBr"> <br class = "noBr"> <br class = "noBr"> </li>
+	</ul>
+		<div id = "address">
+			The Lighthouse Bistro <br> #27 Lighthouse Road <br> Mackinac City, Michigan 49701 <br>  
+			<p id = "white"> 888-555-5555  <br> <br> </p>
+		</div> <br>
+	</nav> 
+	</td>
+	
+	<td id = "rez">
+	
+	<h2> Reservations at The Lighthouse Bistro </h2>
+	
+	<h3> Contact Us Today To Make Your Dining Reservation! </h3>
+	
+	<p> Required fields are marked with an asterisk * </p>
+	
+	<form action="http://cs.ucf.edu/~markl/bistroformreport.php" method="post">
+          <fieldset>
+            <ul>
+              <li>
+                <label for="myFName" id = "myF"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *First Name:</label>
+                <input type="text" id="myFName" name="myFName" required="required" autofocus="autofocus" />
+              </li> 
+              <li>
+                <label for="myLName" id = "myL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Last Name:</label>
+                <input type="text" id="myLName" name="myLName" required="required" />
+              </li> 
+              <li>
+                <label for="myEmail" id = "myE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*E-mail:</label>
+                <input type="email" id="myEmail" name="myEmail" required="required" />
+              </li> 
+              <li>
+                <label for="myPhone" id = "myP">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone:</label>
+                <input type="tel" id="myPhone" name="myPhone" />
+              </li> 
+              <li>
+                <label for="myDate" id = "myD">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date:</label>
+                <input type="date" id="myDate" name="myDate" />
+              </li> 
+              <li>
+                <label for="myTime" id = "myT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time:</label>
+                <input type="time" id="myTime" name="myTime" />
+              </li> 	 		  
+              <li>
+                <label for="myGuests" id = "myG">Number of Guests:</label>
+                <input type="number" id="myGuests" name="myGuests" />
+              </li> 
+              <li>
+                <label for="myComments" id = "myC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Comments:</label>
+                <textarea id="myComments" name="myComments" rows="2" cols="32" maxlength="64" required="required"></textarea> 
+              </li>
+            </ul>
+			<p id="chars">Message Limit 64 Characters </p>
+            <input type="submit" value="Submit" class="submit">
+          </fieldset>
+        </form> <br> <br>
+	</td>	
+
+	
+	</tr>
+	</table> <br> <br> <br class = "dont"> <br class = "dont">
+	
+	<footer id = "ReservationFooter">
+		Copyright &copy; 2018 The Lighthouse Bistro <br> <a href=  "javascript:void(0);"> yourname@yourlastname.com </a> <br> <div id = "date"> </div>
+	</footer> <br class = "dont"> <br class = "dont"> <br class = "dont"> <br class = "dont"> <br class = "dont">
+
+</div>
+</body>
+</html>
